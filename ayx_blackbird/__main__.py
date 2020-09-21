@@ -16,6 +16,7 @@ name_to_tool = {
     "multianchor": "BlackbirdMultianchor",
 }
 
+# Adding a comment to __main__.py
 
 @click.group()
 def main() -> None:
